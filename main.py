@@ -1,6 +1,4 @@
 # This program takes user input and converts it into Morse code and vice versa.
-from morse import Morse
-
 # TODO 1: Create functions to convert text to morse, and morse to text.
 
 
